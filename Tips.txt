@@ -1,0 +1,9 @@
+Write down your intuition before coding — what's the input, output, constraints, edge cases?
+
+Don't jump into coding right away. Think, then code.
+
+Review your solved problems weekly. Editing and refactoring solutions builds real mastery.
+
+Teach someone (or pretend to) — if you can explain it, you know it.
+
+Keep a DSA journal: write solutions, mistakes, optimizations.
